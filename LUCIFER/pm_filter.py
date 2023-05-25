@@ -586,7 +586,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('Sᴛᴀᴛᴜs', callback_data='stats'),
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ', callback_data='source')
+           
         ],[
             InlineKeyboardButton('Rᴇᴘᴏʀᴛ Bᴜɢs & Fᴇᴇᴅʙᴀᴄᴋ', url=GRP_LNK)
         ],[
@@ -753,13 +753,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Lᴜᴄɪғᴇʀ Bᴏᴛ Lᴏɢs', url="https://t.me/LuciferBot_logs")
-                     ], [
+                      
+                     
                       InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/mh_request'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/movieshouse8')
+                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/netflixOxG')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/kdbotz_support'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/kd_botz')
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/netflixOxG'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/netflixOxG')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
