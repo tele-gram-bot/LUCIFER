@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/kdbotz/Lucifer",
-    "repository": "https://github.com/kdbotz/Lucifer",
+    "repository": "https://github.com/tele-gram-bot/LUCIFER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
