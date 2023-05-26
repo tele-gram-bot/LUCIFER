@@ -22,9 +22,9 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 PORT = environ.get("PORT", "8080")
 TIMEZONE = environ.get("TIMEZONE", "Asia/Kolkata")
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/705593c3ae56831c8e565.jpg https://telegra.ph/file/869de5ba9ac7e61559f24.jpg https://telegra.ph/file/4f3d1cc0b1375ae596b16.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/f6286610b3deccce52446.jpg https://telegra.ph/file/05e29eac9f0063cf4fc24.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/29a53a868e92204125154.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/b60d2facc538ad82ad22d.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/29a53a868e92204125154.jpg")
 NEWGRP = environ.get("NEWGRP", "https://telegra.ph/file/29a53a868e92204125154.jpg")
 
 # Admins, Channels & Users
