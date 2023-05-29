@@ -193,7 +193,7 @@ Rᴇᴀsᴏɴs
 Rᴇᴘᴏʀᴛ Hᴇʀᴇ @adinannissar</b>
 """
 
-    TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
+    TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ 𝙰𝙽𝙸𝙼𝙴 Iɴ Dᴀᴛᴀʙᴀsᴇ...
 """
     
     OWNER_INFO = """
